@@ -1,1 +1,1 @@
-## This directory contains some datasets usen in lectures
+## This directory contains some datasets used in lectures
